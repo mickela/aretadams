@@ -13,7 +13,7 @@
     max-width: 50% !important;
   }
 
-  .owl-stage-outer .owl-stage{
+  .main-slider.style1 .owl-stage-outer .owl-stage:first-of-type{
     height: 500px !important;
     overflow: hidden;
   }
